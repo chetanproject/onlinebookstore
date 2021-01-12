@@ -1,0 +1,166 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Headland One', serif;
+  font-size: 50px;
+}
+img{
+  height: 186px;
+  width: 186px;
+}
+.heading{
+  padding-top: 50px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.container-1{
+  padding-top: 70px;
+  position: relative;
+  left: 250px;
+  width: 100%;
+  height: 350px;
+}
+.arihant{
+  display: inline-block;
+  position: absolute;
+  left: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 0;
+}
+.cengage{
+  display: inline-block;
+  position: absolute;
+  left: 346px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.editis{
+  display: inline-block;
+  position: absolute;
+  left: 632px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.container-2{
+  padding-top: 70px;
+  position: relative;
+  left: 250px;
+  width: 100%;
+  height: 350px;
+}
+.hachette{
+  display: inline-block;
+  position: absolute;
+  left: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 0;
+}
+.harper{
+  display: inline-block;
+  position: absolute;
+  left: 346px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.hmh{
+  display: inline-block;
+  position: absolute;
+  left: 632px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.container-3{
+  padding-top: 70px;
+  position: relative;
+  left: 250px;
+  width: 100%;
+  height: 350px;
+}
+.klett{
+  display: inline-block;
+  position: absolute;
+  left: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 0;
+}
+.oxford{
+  display: inline-block;
+  position: absolute;
+  left: 346px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.pearson{
+  display: inline-block;
+  position: absolute;
+  left: 632px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
+.container-4{
+  padding-top: 70px;
+  position: relative;
+  left: 250px;
+  width: 100%;
+  height: 350px;
+}
+.penguin{
+  display: inline-block;
+  position: absolute;
+  left: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 0;
+}
+.santillana{
+  display: inline-block;
+  position: absolute;
+  left: 346px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+
+}
+.scholastic{display: inline-block;
+  position: absolute;
+  left: 632px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+
+}
+.container-5{
+  padding-top: 70px;
+  position: relative;
+  left: 250px;
+  width: 100%;
+  height: 350px;
+}
+.springer{display: inline-block;
+  position: absolute;
+  left: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 0;
+}
+.wiley{display: inline-block;
+  position: absolute;
+  left: 346px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px 50px 10px 50px;
+}
